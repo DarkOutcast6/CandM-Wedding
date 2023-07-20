@@ -100,45 +100,6 @@ img {
   }
 }
 
-@media (max-width: 768px) {
-  body {
-    background: linear-gradient(to bottom right, rgba(248, 245, 242, 1), rgba(255, 255, 255, 0));
-    word-wrap: break-word;
-  }
-
-  .container {
-    max-width: 100%;
-    box-sizing: border-box;
-    padding: 10px;
-  }
-
-  h1 {
-    font-size: 24px;
-  }
-
-  h2 {
-    font-size: 20px;
-  }
-
-  .section {
-    padding: 10px;
-    margin: 5px;
-  }
-
-  #information p {
-    max-width: 100%;
-  }
-
-  img {
-    width: 100%;
-    height: auto;
-  }
-
-  .walking-map {
-    width: 100%;
-  }
-}
-
 
 
 
