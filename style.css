@@ -89,7 +89,38 @@ img {
 }
 
 
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
 
+  .section {
+    padding: 10px;
+  }
+
+  .image-row-1,
+  .image-row-2 {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .image-row-1 .image1,
+  .image-row-1 .image2,
+  .image-row-1 .image3,
+  .image-row-2 .image4,
+  .image-row-2 .image5,
+  .image-row-2 .image6 {
+    margin-bottom: 10px;
+  }
+
+  img {
+    height: auto;
+  }
+
+  .walking-map {
+    width: 100%;
+  }
+}
 
 
 
