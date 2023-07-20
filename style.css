@@ -125,6 +125,10 @@ img {
     margin: 5px;
   }
 
+  #information p {
+    max-width: 100%;
+  }
+
   img {
     width: 100%;
     height: auto;
@@ -134,3 +138,9 @@ img {
     width: 100%;
   }
 }
+
+
+
+
+
+
