@@ -105,25 +105,3 @@ img {
     background: linear-gradient(to bottom right, rgba(248, 245, 242, 1), rgba(255, 255, 255, 0));
     word-wrap: break-word;
   }
-
-  h1 {
-    font-size: 24px;
-  }
-
-  h2 {
-    font-size: 20px;
-  }
-
-  .section {
-    padding: 10px;
-    margin: 5px;
-  }
-
-  img {
-    height: 150px;
-  }
-
-  .walking-map {
-    width: 100%; /* Adjust the width to occupy the full screen */
-  }
-}
