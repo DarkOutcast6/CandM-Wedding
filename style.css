@@ -89,18 +89,6 @@ img {
   object-fit: contain;
 }
 
-/* Media query for mobile devices */
-@media (max-width: 768px) {
-  .container {
-    padding: 10px;
-  }
-
-  .section {
-    padding: 10px;
-    margin: 5px;
-  }
-}
-
 @media screen and (max-width: 600px) {
   .container {
     padding: 10px;
